@@ -1,0 +1,4 @@
+#Sat Sep 21 10:15:31 IST 2024
+base.0=D\:\\diwali_damaka\\sharing\\sharing\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
